@@ -1,2 +1,2 @@
-#! usr/bin/env bash
-export tagvalue=$GO_REVISION_GIT
+#! /bin/sh
+tagvalue=$GO_REVISION_GIT
