@@ -1,4 +1,4 @@
 #! /usr/bin/env bash
-cat > metadata <<EOF
+cat > metadata.sh <<EOF
 export HELM_TAG=$GO_REVISION
 EOF
